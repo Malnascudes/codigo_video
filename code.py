@@ -4,7 +4,7 @@ import  os
 import time
 import random
 
-path = 'cremeta'
+path = 'cremeta' #fodler name
 
 
 image_interval = 1
